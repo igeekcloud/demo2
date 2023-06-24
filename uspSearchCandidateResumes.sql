@@ -3,6 +3,7 @@ GO
 
 /****** Object:  StoredProcedure [dbo].[uspSearchCandidateResumes]    Script Date: 6/24/2023 10:40:32 AM ******/
 /***** Modified for the  nwe development project ******/
+    /***** Modified for the  changed on git hub ******/
 SET ANSI_NULLS ON
 GO
 
